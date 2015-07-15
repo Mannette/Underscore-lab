@@ -2,7 +2,7 @@ console.log("Part 1");
 console.log("");
 
 // returns average value in given array.
-_.average( [10, 5, 8, 1] );
+
 
 // returns true given value is present in array.
 _.contains( [30, 50, 2, 2, 5, 0, 90], 30);
